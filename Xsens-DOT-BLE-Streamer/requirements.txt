@@ -1,0 +1,10 @@
+PySimpleGUI
+bleak
+threading
+asyncio
+struct
+squaternion
+csv
+numpy
+sklearn
+pandas
